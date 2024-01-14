@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"G:\\UE_5.0\\Engine\\Turtleguita_War\\Intermediate\\Source\\Turtleguita_War.Build.cs",
+		"G:\\UE_5.0\\Engine\\Turtleguita_War\\Intermediate\\Source\\Turtleguita_War.Target.cs",
+		"G:\\UE_5.0\\Engine\\Turtleguita_War\\Intermediate\\Source\\Turtleguita_WarClient.Target.cs",
+		"G:\\UE_5.0\\Engine\\Turtleguita_War\\Intermediate\\Source\\Turtleguita_WarEditor.Target.cs",
+		"G:\\UE_5.0\\Engine\\Turtleguita_War\\Intermediate\\Source\\Turtleguita_WarServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

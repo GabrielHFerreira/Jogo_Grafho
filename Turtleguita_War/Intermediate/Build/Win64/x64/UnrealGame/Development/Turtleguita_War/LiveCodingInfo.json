@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Turtleguita_War.cpp.obj": [
+			"Turtleguita_War.cpp.obj"
+		]
+	}
+}

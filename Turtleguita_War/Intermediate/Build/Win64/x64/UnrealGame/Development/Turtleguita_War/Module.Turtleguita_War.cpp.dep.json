@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\ue_5.0\\engine\\turtleguita_war\\intermediate\\build\\win64\\x64\\unrealgame\\development\\turtleguita_war\\module.turtleguita_war.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\ue_5.0\\engine\\turtleguita_war\\intermediate\\build\\win64\\x64\\turtleguita_war\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "g:\\ue_5.0\\engine\\turtleguita_war\\intermediate\\build\\win64\\x64\\unrealgame\\development\\turtleguita_war\\definitions.turtleguita_war.h",
+            "g:\\ue_5.0\\engine\\turtleguita_war\\intermediate\\source\\turtleguita_war.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
